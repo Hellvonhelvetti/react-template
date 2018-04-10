@@ -14,7 +14,7 @@ const Hello = () => (
 class App extends Component {
   render() {
     return (
-      <Hello />
+      <Hello I suffered to reach this level />
     );
   }
 }
